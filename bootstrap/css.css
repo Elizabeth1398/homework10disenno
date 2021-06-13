@@ -1,0 +1,25 @@
+.mainColor{
+	background-color: #36498f;
+}
+.mainFont{
+	color:whtie;
+}
+.tachado {
+    text-decoration: line-through;
+}
+.MyContainer{
+	padding-left:13px;
+}
+.300-px-wide {
+    width: 300px;
+}
+.footerColor{
+	color:white;
+	background-color: black;
+}
+body{
+	background-color: #cccccc
+}
+.sideMenu{
+	color: white;
+}
